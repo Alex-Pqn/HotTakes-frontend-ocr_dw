@@ -1,4 +1,6 @@
-## OpenClassrooms fork for P6 - "Développeur Web" - HotTakes
+## Frontend - HotTakes
+
+### P6 - OpenClassrooms "Développeur Web"
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 

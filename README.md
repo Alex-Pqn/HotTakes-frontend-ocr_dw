@@ -4,16 +4,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
----
-
 ## Prerequisites
 
 - You will need to have Node and `npm` installed locally on your machine.
 
 > [!WARNING]  
 > The [backend](https://github.com/Alex-Pqn/HotTakes-ocr_dw) must also be installed in order to launch this project.
-
----
 
 ## Project setup
 

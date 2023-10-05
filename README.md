@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - You will need to have Node and `npm` installed locally on your machine.
 
 > [!WARNING]  
-> The [backend]([https://github.com/Alex-Pqn/HotTakes-frontend-ocr_dw](https://github.com/Alex-Pqn/HotTakes-ocr_dw)) must also be installed in order to launch this project.
+> The [backend](https://github.com/Alex-Pqn/HotTakes-ocr_dw) must also be installed in order to launch this project.
 
 ---
 

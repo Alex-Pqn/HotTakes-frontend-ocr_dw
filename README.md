@@ -25,6 +25,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 Runs the app in the development mode.
+
 Navigate to [http://localhost:4200/](http://localhost:4200/). The app will automatically reload if you change any of the source files.
 ```
 npm run start
